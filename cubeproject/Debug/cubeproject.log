@@ -1,0 +1,11 @@
+﻿  cube.cpp
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(81): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(93): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(95): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(100): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(102): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(107): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(109): warning C4305: '/=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(121): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\documents\visual studio 2015\projects\그래픽\cubeproject\cubeproject\cube.cpp(123): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+  cubeproject.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\그래픽\cubeproject\Debug\cubeproject.exe
